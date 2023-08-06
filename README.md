@@ -4,7 +4,7 @@
 [![codecov](https://codecov.io/gh/Fabiopf02/ofx-data-extractor/branch/main/graph/badge.svg?token=L4A7E4H8IN)](https://codecov.io/gh/Fabiopf02/ofx-data-extractor)
 
 ## Ofx Data Extractor and Formatter
-This is a `Node.js` and `Browser` module written in `TypeScript` that provides a utility for extracting data from an `OFX` file. The module can also format some of the data and retrieve specific parts of the file if requested.
+A module written in `TypeScript` that provides a utility to extract data from an OFX file in `Node.js` and `Browser`.
 
 ### Installation
 You can install this module using the Node Package Manager (`NPM`) with the following command:
